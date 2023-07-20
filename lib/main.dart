@@ -40,7 +40,7 @@ class _BasketBallState extends State<BasketBall> {
                       Text('$TeamA',style: TextStyle(fontSize: 200),),
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.orange,
+                          primary: Colors.deepOrange,
                           minimumSize: Size(150, 50)
                         ),
                         onPressed: (){
@@ -54,7 +54,7 @@ class _BasketBallState extends State<BasketBall> {
                         ),)),
                          ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.orange,
+                          primary: Colors.deepOrange,
                           minimumSize: Size(150, 50)
                         ),
                         onPressed: (){
@@ -67,7 +67,7 @@ class _BasketBallState extends State<BasketBall> {
                         ),)),
                          ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.orange,
+                          primary: Colors.deepOrange,
                           minimumSize: Size(150, 50)
                         ),
                         onPressed: (){
@@ -100,7 +100,7 @@ class _BasketBallState extends State<BasketBall> {
                       Text('$TeamB',style: TextStyle(fontSize: 200),),
                       ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.orange,
+                          primary: Colors.deepOrange,
                           minimumSize: Size(150, 50)
                         ),
                         onPressed: (
@@ -114,7 +114,7 @@ class _BasketBallState extends State<BasketBall> {
                         ),)),
                          ElevatedButton(
                         style: ElevatedButton.styleFrom(
-                          primary: Colors.orange,
+                          primary: Colors.deepOrange,
                           minimumSize: Size(150, 50)
                         ),
                         onPressed: (){
